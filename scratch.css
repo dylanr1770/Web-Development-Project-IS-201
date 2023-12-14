@@ -1,0 +1,25 @@
+.center {
+    text-align: center;
+}
+.background {
+    background-color: aliceblue;
+}
+.textcolor {text-decoration-color: black;
+
+}
+.font { font-size: medium;
+
+}
+
+.fontstyle {
+    font-style: italic;
+}
+
+.img {
+width: 150px;
+height: 50px;
+
+display:block;
+margin-left: auto;
+margin-right:auto;
+}
